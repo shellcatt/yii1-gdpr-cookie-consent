@@ -1,0 +1,1 @@
+# yii1-gdpr-cookie-consent
